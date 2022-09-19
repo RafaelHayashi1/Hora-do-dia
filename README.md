@@ -1,2 +1,2 @@
 # Hora do dia
- Mostrar as horas e uma imagen de acordo com elas.
+ Mostrar as horas do usuário e exibir uma imagen de acordo com elas.
